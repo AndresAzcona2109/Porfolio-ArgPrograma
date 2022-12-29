@@ -17,6 +17,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     LogoAPComponent,
     SocialComponent,
     BannerComponent
+    BannerComponent,
     AcercaDeComponent
   ],
   imports: [
