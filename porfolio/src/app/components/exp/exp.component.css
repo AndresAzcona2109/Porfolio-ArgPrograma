@@ -1,0 +1,8 @@
+div{
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
+h1,h3{
+    display: inline;
+}

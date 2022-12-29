@@ -7,17 +7,17 @@ div{
     color: white;
 }
 #nombre{
-    font-size: 30px;
+    font-size: 35px;
     font-weight: bold;
-    margin-top: 5%;
+    margin-top: 30px;
     text-align: center;
-    right: 20px;
+    right: 60px;
 }
 #trabajo{
     text-align: center;
     font-size: 20px;
 }
 #acercaDe{
-    padding: 20px;
+    padding: 30px;
     color: white;
 }

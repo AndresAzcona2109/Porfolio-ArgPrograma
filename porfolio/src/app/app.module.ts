@@ -9,6 +9,8 @@ import { SocialComponent } from './components/social/social.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { ExpComponent } from './components/exp/exp.component';
+import { EducacionComponent } from './components/educacion/educacion.component';
 
 @NgModule({
   declarations: [
@@ -18,6 +20,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     SocialComponent,
     BannerComponent,
     AcercaDeComponent,
+    ExpComponent,
+    EducacionComponent,
   ],
   imports: [
     BrowserModule,
