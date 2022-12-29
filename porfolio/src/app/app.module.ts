@@ -16,8 +16,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     HeaderComponent,
     LogoAPComponent,
     SocialComponent,
-    BannerComponent
-    AcercaDeComponent
+    BannerComponent,
+    AcercaDeComponent,
   ],
   imports: [
     BrowserModule,
