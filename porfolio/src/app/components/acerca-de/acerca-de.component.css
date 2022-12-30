@@ -1,17 +1,20 @@
 .row{
-    padding: 20px;
+    padding: 30px;
 }
 div{
     background-color: rgb(0, 54, 124);
     text-align: center;
     color: white;
 }
+img{
+    padding: 30px;
+}
 #nombre{
     font-size: 35px;
     font-weight: bold;
     margin-top: 30px;
     text-align: center;
-    right: 60px;
+    padding: 30px;
 }
 #trabajo{
     text-align: center;

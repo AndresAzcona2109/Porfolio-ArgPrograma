@@ -1,0 +1,120 @@
+
+h1{
+    background-color: rgb(0, 54, 124);
+    padding-left: 10px;
+    padding-bottom: 15px;
+    color: white;
+}
+.row{
+    background-color: rgb(0, 54, 124);
+    padding: 30px;
+}
+
+img{
+    height: 60px;
+    position: relative;
+    
+}
+
+
+@media (max-width:991.98px) {
+    .padding {
+        padding: 1.5rem
+    }
+}
+
+@media (max-width:767.98px) {
+    .padding {
+        padding: 1rem
+    }
+}
+
+.padding {
+    padding: 3rem
+}
+
+
+h5 {
+   font-size: 16px !important;
+   color: white;
+   position: relative;
+   padding-top: 10px;
+}
+
+.text-c-green {
+   color: #2ed8b6;
+}
+
+.m-l-10 {
+   margin-left: 10px;
+}
+
+.progress {
+   height: 6px;
+   overflow: visible;
+   margin-bottom: 10px;
+}
+
+.progress .progress-bar {
+   position: relative;
+}
+
+.progress .progress-bar {
+   height: 100%;
+   color: inherit;
+}
+
+.bg-c-red {
+   background: #FF5370;
+}
+
+.progress .progress-bar.bg-c-red:after {
+   border: 3px solid #FF5370;
+}
+
+.progress .progress-bar:after {
+   content: "";
+   background: rgb(0, 0, 0);
+   position: absolute;
+   right: -6px;
+   top: -4px;
+   border-radius: 50%;
+   width: 15px;
+   height: 15px;
+}
+
+.bg-c-blue {
+   background: #4099ff;
+}
+
+.progress .progress-bar.bg-c-blue:after {
+   border: 3px solid #4099ff;
+}
+
+.progress .progress-bar.bg-c-green:after {
+   border: 3px solid #2ed8b6;
+}
+
+.bg-c-green {
+   background: #2ed8b6;
+}
+
+.bg-c-yellow {
+   background: #FFB64D;
+}
+
+.progress .progress-bar.bg-c-yellow:after {
+   border: 3px solid #FFB64D;
+}
+
+.m-b-30 {
+   margin-bottom: 30px;
+}
+
+.text-c-red {
+   color: #FF5370;
+}
+
+
+
+
