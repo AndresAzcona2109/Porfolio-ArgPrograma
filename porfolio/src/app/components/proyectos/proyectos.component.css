@@ -1,0 +1,16 @@
+.row{
+    padding: 20px;
+    background-color: rgb(0, 54, 124);
+    color: white;
+    text-shadow: 4px 3px 2px black;
+}
+.container{
+    width: auto;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+#imagen{
+    box-shadow: 10px;
+}

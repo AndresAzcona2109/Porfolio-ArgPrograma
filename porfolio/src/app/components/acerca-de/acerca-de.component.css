@@ -5,6 +5,7 @@ div{
     background-color: rgb(0, 54, 124);
     text-align: center;
     color: white;
+    text-shadow: 4px 3px 2px black;
 }
 img{
     padding: 30px;

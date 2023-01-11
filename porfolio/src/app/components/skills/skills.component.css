@@ -4,6 +4,7 @@ h1{
     padding-left: 10px;
     padding-bottom: 15px;
     color: white;
+    text-shadow: 4px 3px 2px black;
 }
 .row{
     background-color: rgb(0, 54, 124);
@@ -39,6 +40,7 @@ h5 {
    color: white;
    position: relative;
    padding-top: 10px;
+   text-shadow: 4px 3px 2px black;
 }
 
 .text-c-green {
@@ -114,6 +116,8 @@ h5 {
 .text-c-red {
    color: #FF5370;
 }
+
+
 
 
 
