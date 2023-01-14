@@ -1,13 +1,13 @@
-package com.Azconaportfolio.Andres;
+package com.lich.lichporfolio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AndresApplication {
+public class LichporfolioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AndresApplication.class, args);
+		SpringApplication.run(LichporfolioApplication.class, args);
 	}
 
 }
